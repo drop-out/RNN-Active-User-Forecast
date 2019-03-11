@@ -1,3 +1,5 @@
+**作者按：由于比赛时间仓促，这份代码中有些地方写的并不规范。更规范的tensorflow RNN构建，可以参考作者的另外一个项目[tenosrflow-RNN-toolkit](https://github.com/drop-out/tensorflow-RNN-toolkit)，该项目使用更高程度抽象的building block构建RNN，同时不失灵活性。**
+
 ## 赛题回顾
 
 这是一个活跃用户预测问题。给定快手用户注册、登陆、视频观看与发布、互动的记录，预测未来7天活跃用户。
